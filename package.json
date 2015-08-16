@@ -1,0 +1,15 @@
+{
+  "name": "wbr_tutorial",
+  "version": "1.0.0",
+  "description": "tutorial ",
+  "main": "index.js",
+  "dependencies": {
+    "webpack": "^1.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
